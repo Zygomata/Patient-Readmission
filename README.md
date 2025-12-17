@@ -54,7 +54,3 @@ Because much of the content is in report form (Word/PDF) and a single notebook:
 - Data are **mock** and for educational use only; they do not represent real patients.
 - CDC benchmarks are used as reference points, not as integrated datasets.
 - Models are kept intentionally interpretable (e.g., logistic regression) rather than focusing on black‑box performance.
-
-## License
-
-This project is provided for educational and portfolio purposes. Please review your institution’s and employer’s policies before reusing any content.
